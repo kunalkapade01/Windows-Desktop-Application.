@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kunal\\source\\repos\\Task 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC368257-0DD1-4442-8C91-F39F7AE7E165}|Task 2\\Task 2.vbproj|c:\\users\\kunal\\source\\repos\\task 2\\task 2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CC368257-0DD1-4442-8C91-F39F7AE7E165}|Task 2\\Task 2.vbproj|solutionrelative:task 2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC368257-0DD1-4442-8C91-F39F7AE7E165}|Task 2\\Task 2.vbproj|c:\\users\\kunal\\source\\repos\\task 2\\task 2\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CC368257-0DD1-4442-8C91-F39F7AE7E165}|Task 2\\Task 2.vbproj|solutionrelative:task 2\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC368257-0DD1-4442-8C91-F39F7AE7E165}|Task 2\\Task 2.vbproj|c:\\users\\kunal\\source\\repos\\task 2\\task 2\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CC368257-0DD1-4442-8C91-F39F7AE7E165}|Task 2\\Task 2.vbproj|solutionrelative:task 2\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC368257-0DD1-4442-8C91-F39F7AE7E165}|Task 2\\Task 2.vbproj|c:\\users\\kunal\\source\\repos\\task 2\\task 2\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CC368257-0DD1-4442-8C91-F39F7AE7E165}|Task 2\\Task 2.vbproj|solutionrelative:task 2\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC368257-0DD1-4442-8C91-F39F7AE7E165}|Task 2\\Task 2.vbproj|c:\\users\\kunal\\source\\repos\\task 2\\task 2\\submission.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CC368257-0DD1-4442-8C91-F39F7AE7E165}|Task 2\\Task 2.vbproj|solutionrelative:task 2\\submission.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC368257-0DD1-4442-8C91-F39F7AE7E165}|Task 2\\Task 2.vbproj|c:\\users\\kunal\\source\\repos\\task 2\\task 2\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CC368257-0DD1-4442-8C91-F39F7AE7E165}|Task 2\\Task 2.vbproj|solutionrelative:task 2\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC368257-0DD1-4442-8C91-F39F7AE7E165}|Task 2\\Task 2.vbproj|c:\\users\\kunal\\source\\repos\\task 2\\task 2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CC368257-0DD1-4442-8C91-F39F7AE7E165}|Task 2\\Task 2.vbproj|solutionrelative:task 2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Submission.vb",
+              "DocumentMoniker": "C:\\Users\\kunal\\source\\repos\\Task 2\\Task 2\\Submission.vb",
+              "RelativeDocumentMoniker": "Task 2\\Submission.vb",
+              "ToolTip": "C:\\Users\\kunal\\source\\repos\\Task 2\\Task 2\\Submission.vb",
+              "RelativeToolTip": "Task 2\\Submission.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T07:34:44.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateSubmissionForm.vb",
+              "DocumentMoniker": "C:\\Users\\kunal\\source\\repos\\Task 2\\Task 2\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "Task 2\\CreateSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\kunal\\source\\repos\\Task 2\\Task 2\\CreateSubmissionForm.vb",
+              "RelativeToolTip": "Task 2\\CreateSubmissionForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T07:30:22.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateSubmissionForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\kunal\\source\\repos\\Task 2\\Task 2\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "Task 2\\CreateSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\kunal\\source\\repos\\Task 2\\Task 2\\CreateSubmissionForm.vb [Design]",
+              "RelativeToolTip": "Task 2\\CreateSubmissionForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T07:03:05.672Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewSubmissionsForm.vb",
+              "DocumentMoniker": "C:\\Users\\kunal\\source\\repos\\Task 2\\Task 2\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "Task 2\\ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\kunal\\source\\repos\\Task 2\\Task 2\\ViewSubmissionsForm.vb",
+              "RelativeToolTip": "Task 2\\ViewSubmissionsForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T07:00:09.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewSubmissionsForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\kunal\\source\\repos\\Task 2\\Task 2\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "Task 2\\ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\kunal\\source\\repos\\Task 2\\Task 2\\ViewSubmissionsForm.vb [Design]",
+              "RelativeToolTip": "Task 2\\ViewSubmissionsForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T06:46:25.32Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\kunal\\source\\repos\\Task 2\\Task 2\\Form1.vb",
+              "RelativeDocumentMoniker": "Task 2\\Form1.vb",
+              "ToolTip": "C:\\Users\\kunal\\source\\repos\\Task 2\\Task 2\\Form1.vb",
+              "RelativeToolTip": "Task 2\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T06:16:45.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\kunal\\source\\repos\\Task 2\\Task 2\\Form1.vb",
+              "RelativeDocumentMoniker": "Task 2\\Form1.vb",
+              "ToolTip": "C:\\Users\\kunal\\source\\repos\\Task 2\\Task 2\\Form1.vb [Design]",
+              "RelativeToolTip": "Task 2\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-21T06:06:49.272Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
